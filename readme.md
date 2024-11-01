@@ -1,0 +1,6 @@
+## Whoa, Caviar!
+
+This plugin just takes over your site, with a Mountain, a Stream, and a Fish.. potentially Caviar...
+There is really no point to this plugin at all - other than just sitting there.. for my amusement.. :)
+
+### I see potential for this plugin however - so... 
